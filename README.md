@@ -93,3 +93,7 @@ yarn dev
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=aingdesk/aingdesk&type=Date)](https://www.star-history.com/#aingdesk/aingdesk&Date)
+
+## Sponsor
+- CDN acceleration and security protection for this project are sponsored by Tencent EdgeOne.
+[![image](https://github.com/user-attachments/assets/0af60c97-9951-4acf-9cf4-f30ae7f25101)](https://edgeone.ai/?from=github)
